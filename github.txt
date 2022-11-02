@@ -1,0 +1,2 @@
+https://github.com/yan-roo/FakeFace
+https://github.com/rosinality/style-based-gan-pytorch
